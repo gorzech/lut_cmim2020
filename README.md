@@ -1,5 +1,5 @@
-# lut_cmim2019
-Repository following Computer Methods in Mechanics course at LUT in 2019
+# lut_cmim2010
+Repository following Computer Methods in Mechanics course at LUT in 2010
 
 It will contain code snippets used during the lectures and some useful links (below).
 
